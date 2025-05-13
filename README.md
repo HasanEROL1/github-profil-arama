@@ -7,3 +7,4 @@ Bu proje, GitHub kullanıcılarını arayıp profil ve repo bilgilerini gösteri
 - CSS
 - JavaScript
 - Axios (API istekleri için)
+![Uploading github-arama.gif…]()
